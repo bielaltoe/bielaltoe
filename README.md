@@ -10,23 +10,6 @@ Pesquisador em visão computacional no LabVisio-UFES, desenvolvendo sistemas de 
 - Implementação de YOLO, geometria epipolar e algoritmos SORT
 - Reconstrução 3D com triangulação e RANSAC
 
-## Projetos Principais
-
-### [Multi-Object Triangulation and 3D Footprint Tracking](https://github.com/labvisio/Multi-Object-Triangulation-and-3D-Footprint-Tracking)
-Sistema completo para triangulação multi-objeto e rastreamento 3D com sincronização de 4 câmeras em tempo real.
-
-### [RU Cardápio Bot](https://github.com/bielaltoe/ru-cardapio-bot)
-Bot do Telegram para busca automática de cardápios universitários com web scraping e Docker.
-
-### [Academic Success Classification](https://github.com/bielaltoe/academic_success_classification)
-Projeto de machine learning para predição de resultados acadêmicos usando Scikit-learn.
-
-### [DUA Automation](https://github.com/bielaltoe/dua_automation)
-Automação para emissão de documentos fiscais do estado do Espírito Santo.
-
-### [Bluetooth MIDI Foot Controller](https://github.com/bielaltoe/bluetooth-midi-foot-controller)
-Controlador MIDI via Bluetooth Low Energy com ESP32 e FastLED.
-
 ## 🛠️ Stack Tecnológico
 
 **Linguagens:** Python, C/C++  
